@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/admin-parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/admin-parent/admin-component" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/admin-parent/admin-entity" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/admin-parent/admin-webui" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common-utils" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/member-parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/member-parent/member-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/member-parent/member-authentication-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/member-parent/member-entity" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/member-parent/member-eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/member-parent/member-mysql-provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/member-parent/member-order-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/member-parent/member-pay-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/member-parent/member-project-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/member-parent/member-redisserver-provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/member-parent/member-zuul" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-security" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-session-a" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-session-b" charset="UTF-8" />
+  </component>
+</project>

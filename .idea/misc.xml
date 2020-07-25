@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/admin-parent/admin-webui" />
+    <file type="web" url="file://$PROJECT_DIR$/spring-security" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/common-utils/pom.xml" />
+        <option value="$PROJECT_DIR$/admin-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/common-reverses/pom.xml" />
+        <option value="$PROJECT_DIR$/springannotation/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-security/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-annotation/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/member-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/member-parent/member-eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/member-parent/member-mysql-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/member-parent/member-redisserver-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/member-parent/member-order-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/member-parent/member-authentication-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/member-parent/member-zuul/pom.xml" />
+        <option value="$PROJECT_DIR$/short-message/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-session-a/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-session-b/pom.xml" />
+        <option value="$PROJECT_DIR$/member-parent/member-project-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/member-parent/member-pay-consumer/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/admin-parent/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

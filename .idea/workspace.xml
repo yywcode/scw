@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="admin-webui:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0b70161e-b7cf-43d8-997d-4d742d89043a" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="project_crowd: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="project_crowd: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="inner_role_auth: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="project_crowd: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="t_auth: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Jsp File" />
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="E:\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1eDlo56ipb4gi2C3KwV2nYVBhMV" />
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../alipay.trade.page.pay-JAVA-UTF-8" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.09871668" />
+    <property name="project.structure.side.proportion" value="0.39101863" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.atguigu.crowd.entity" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.yyw.crowd.test" />
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\funding\member-parent\member-order-consumer\src\main\resources\templates" />
+      <recent name="F:\funding\member-parent\member-mysql-provider\src\main\resources\mybatis\mapper" />
+      <recent name="F:\funding\member-parent\member-mysql-provider\src\main\java\com\yyw\crowd\mapper" />
+      <recent name="F:\funding\member-parent\member-entity\src\main\java\com\yyw\crowd\entity\vo" />
+      <recent name="F:\funding\member-parent\member-entity\src\main\java\com\yyw\crowd\entity\po" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.yyw.handler" />
+      <recent name="com.yyw.config" />
+      <recent name="com.yyw.crowd.mapper" />
+      <recent name="" />
+      <recent name="com.atguigu.crowd.mapper" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\funding\member-parent\member-project-consumer\src\main\resources" />
+      <recent name="F:\funding\admin-parent\admin-webui\webapp" />
+      <recent name="F:\funding\admin-parent\admin-webui\webapp\WEB-INF\include" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.MemberPayConsumerApplication">
+    <configuration name="CommonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yyw.crowd.CommonTest" />
+      <module name="member-authentication-consumer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yyw.crowd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MemberMysqlProviderApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="member-mysql-provider" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yyw.crowd.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.yyw.crowd.test" />
+      <option name="MAIN_CLASS_NAME" value="com.yyw.crowd.test.MemberMysqlProviderApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MemberMysqlProviderApplicationTests.testLoadTypeData" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="member-mysql-provider" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yyw.crowd.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.yyw.crowd.test" />
+      <option name="MAIN_CLASS_NAME" value="com.yyw.crowd.test.MemberMysqlProviderApplicationTests" />
+      <option name="METHOD_NAME" value="testLoadTypeData" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MybatisTest.testLoadDetailProjectVO" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="member-mysql-provider" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yyw.crowd.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.yyw.crowd.test" />
+      <option name="MAIN_CLASS_NAME" value="com.yyw.crowd.test.MybatisTest" />
+      <option name="METHOD_NAME" value="testLoadDetailProjectVO" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MybatisTest.testLoadTypeData" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="member-mysql-provider" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yyw.crowd.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.yyw.crowd.test" />
+      <option name="MAIN_CLASS_NAME" value="com.yyw.crowd.test.MybatisTest" />
+      <option name="METHOD_NAME" value="testLoadTypeData" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="generate" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="mybatis-generator:generate" />
+                <option value="-e" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/common-reverses" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="MemberAuthenticationConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="member-authentication-consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yyw.crowd.MemberAuthenticationConsumerApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MemberEurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="member-eureka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yyw.crowd.MemberEurekaApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MemberMysqlProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="member-mysql-provider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yyw.crowd.MemberMysqlProviderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MemberOrderConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="member-order-consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yyw.crowd.MemberOrderConsumerApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MemberPayConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="member-pay-consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yyw.MemberPayConsumerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MemberProjectConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="member-project-consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yyw.MemberProjectConsumerApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MemberRedisserverProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="member-redisserver-provider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yyw.crowd.MemberRedisserverProviderApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MemberZuulApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="member-zuul" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yyw.crowd.MemberZuulApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tomcat-8.5.47" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="tomcat-8.5.47" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="COMMON_VM_ARGUMENTS" value="-Dfile.encoding=UTF-8" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="admin-webui:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_funding_2" />
+        <option name="HTTP_PORT" value="8085" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="56421" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="admin-webui:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.CommonTest" />
+      <item itemvalue="JUnit.MemberMysqlProviderApplicationTests.testLoadTypeData" />
+      <item itemvalue="JUnit.MemberMysqlProviderApplicationTests" />
+      <item itemvalue="JUnit.MybatisTest.testLoadTypeData" />
+      <item itemvalue="JUnit.MybatisTest.testLoadDetailProjectVO" />
+      <item itemvalue="Maven.generate" />
+      <item itemvalue="Spring Boot.MemberEurekaApplication" />
+      <item itemvalue="Spring Boot.MemberMysqlProviderApplication" />
+      <item itemvalue="Spring Boot.MemberRedisserverProviderApplication" />
+      <item itemvalue="Spring Boot.MemberOrderConsumerApplication" />
+      <item itemvalue="Spring Boot.MemberAuthenticationConsumerApplication" />
+      <item itemvalue="Spring Boot.MemberZuulApplication" />
+      <item itemvalue="Spring Boot.MemberProjectConsumerApplication" />
+      <item itemvalue="Tomcat Server.tomcat-8.5.47" />
+      <item itemvalue="Spring Boot.MemberPayConsumerApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MemberMysqlProviderApplicationTests" />
+        <item itemvalue="JUnit.MybatisTest.testLoadDetailProjectVO" />
+        <item itemvalue="JUnit.MemberMysqlProviderApplicationTests.testLoadTypeData" />
+        <item itemvalue="JUnit.MybatisTest.testLoadTypeData" />
+        <item itemvalue="Application.CommonTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <treeState>
+          <expand />
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0b70161e-b7cf-43d8-997d-4d742d89043a" name="Default Changelist" comment="" />
+      <created>1593864215807</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593864215807</updated>
+      <workItem from="1593864219124" duration="24598000" />
+      <workItem from="1593991815943" duration="10436000" />
+      <workItem from="1594009121326" duration="778000" />
+      <workItem from="1594011423869" duration="51292000" />
+      <workItem from="1594167627338" duration="7612000" />
+      <workItem from="1594185322078" duration="8255000" />
+      <workItem from="1594193918818" duration="3458000" />
+      <workItem from="1594204919135" duration="5109000" />
+      <workItem from="1594211139817" duration="2430000" />
+      <workItem from="1594213721040" duration="5827000" />
+      <workItem from="1594252048468" duration="26811000" />
+      <workItem from="1594303116318" duration="3298000" />
+      <workItem from="1594350749063" duration="23004000" />
+      <workItem from="1594429585782" duration="7176000" />
+      <workItem from="1594519399896" duration="18121000" />
+      <workItem from="1594546424978" duration="15903000" />
+      <workItem from="1594589870610" duration="22726000" />
+      <workItem from="1594622164525" duration="16702000" />
+      <workItem from="1594643704737" duration="804000" />
+      <workItem from="1594644826796" duration="5376000" />
+      <workItem from="1594684721782" duration="37225000" />
+      <workItem from="1594773286502" duration="30992000" />
+      <workItem from="1594829685711" duration="2336000" />
+      <workItem from="1594857771977" duration="8978000" />
+      <workItem from="1594902082645" duration="616000" />
+      <workItem from="1594944434752" duration="1636000" />
+      <workItem from="1594948981514" duration="25870000" />
+      <workItem from="1595079461445" duration="4617000" />
+      <workItem from="1595121098584" duration="12859000" />
+      <workItem from="1595136567626" duration="17238000" />
+      <workItem from="1595158837841" duration="8085000" />
+      <workItem from="1595168364917" duration="1591000" />
+      <workItem from="1595209487818" duration="3987000" />
+      <workItem from="1595216638153" duration="17654000" />
+      <workItem from="1595236882679" duration="6777000" />
+      <workItem from="1595247468056" duration="7122000" />
+      <workItem from="1595296163780" duration="35828000" />
+      <workItem from="1595373318205" duration="23391000" />
+      <workItem from="1595400518139" duration="17556000" />
+      <workItem from="1595424854878" duration="8967000" />
+      <workItem from="1595462336634" duration="4717000" />
+      <workItem from="1595477525462" duration="38826000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/funding$MemberEurekaApplication.ic" NAME="MemberEurekaApplication Coverage Results" MODIFIED="1595432634646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

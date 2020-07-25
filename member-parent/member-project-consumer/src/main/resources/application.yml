@@ -1,0 +1,27 @@
+server:
+  port: 5000
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:1000/eureka/
+spring:
+  application:
+    name: yyw-crowd-project
+  thymeleaf:
+    prefix: classpath:/templates/
+    suffix: .html
+  redis:
+    host: 127.0.0.1
+  session:
+    store-type: redis
+  servlet:
+    multipart:
+      max-file-size: 10MB
+      max-request-size: 100MB
+aliyun:
+  oss:
+    access-key-id: LTAI4G6SbpPn4w6WheKHY93N
+    access-key-secret: YMp3f0Ef9uIDQQLQZtmM33s77twtpB
+    bucket-domain: http://yyw-crowd.oss-cn-beijing.aliyuncs.com
+    bucket-name: yyw-crowd
+    end-point: http://oss-cn-beijing.aliyuncs.com

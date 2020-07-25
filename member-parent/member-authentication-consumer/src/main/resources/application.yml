@@ -1,0 +1,29 @@
+
+server:
+  port: 4000
+spring:
+  application:
+    name: yyw-crowd-auth
+  thymeleaf:
+    prefix: classpath:/templates/
+    suffix: .html
+  redis:
+    host: 127.0.0.1
+  session:
+    store-type: redis
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:1000/eureka/
+
+short:
+  message:
+    app-code: 5d548a31d35b4b078164e8f581e58204
+    host: https://feginesms.market.alicloudapi.com
+    sign: 1
+    skin: 1
+    path: /codeNotice
+
+ribbon:
+  ReadTimeout: 10000
+  ConnectTimeout: 10000

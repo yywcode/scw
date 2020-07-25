@@ -1,0 +1,35 @@
+server:
+  port: 521
+spring:
+  application:
+    name: yyw-crowd-zuul
+  redis:
+    host: 127.0.0.1
+  session:
+    store-type: redis
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:1000/eureka/
+
+zuul:
+  ignored-services: '*'
+  # 在Zuul向其他微服务重定向的时候保持原本请求头信息
+  sensitive-headers: '*'
+  routes:
+    crowd-portal:
+      service-id: yyw-crowd-auth
+      path: /**
+    crowd-project:
+      service-id: yyw-crowd-project
+      path: /project/**
+    crowd-order:
+      service-id: yyw-crowd-order
+      path: /order/**
+    crowd-pay:
+      service-id: yyw-crowd-pay
+      path: /pay/**
+  # 防止报 Hystrix Readed time out
+ribbon:
+  ReadTimeout: 60000
+  SocketTimeout: 60000

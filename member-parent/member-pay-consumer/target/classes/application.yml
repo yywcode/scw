@@ -1,0 +1,28 @@
+server:
+  port: 8001
+spring:
+  application:
+    name: yyw-crowd-pay
+  main:
+    allow-bean-definition-overriding: true
+  redis:
+    host: 127.0.0.1
+  session:
+    store-type: redis
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:1000/eureka
+ali:
+  pay:
+    alipay-public-key: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAp+2WfEukblV9FrdRkDRgboKF7V1eJcUTuSS8oks9WG0Wh2EVOXdd2Kut/Ura2P3x38FAmI3DviuOUI9hvsNHSw3Yj+qy3Oy/pRmCjWcOqARpyvX1QWgAdEFKTzfAq3kiad6w9RaJrhZd/wSuhC8KO7cfpNb4OYISC7d7geZJYAmvyADLXkXNmt0axFBxUjrrOEnqVqpvewIEKphYiwB1l3s27TU0nYVUpQ9D2bULnZuY0Xj1XstcFLH535I+Cr6BkibrUSvQk0+4RPI+ieQWCW0gFcRpzNO5wVwMUQRjL0AoDhAcwy+lb+o7EVvrghE0NhOJpTWAgEmH1RVZh2MApwIDAQAB
+    app-id: 2021000116665672
+    charset: utf-8
+    gateway-url: https://openapi.alipaydev.com/gateway.do
+    merchant-private-key: MIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCzyZgjhg5hWv963dDxF+MYFKbzVK73GuzcUYTEgd/kqNopEGJI1NwUQzdVl6z8rAFYjnNITBE4/LBgsVm4slzT5syZtpwiYE4zOork5L109hweE0a3QoB9g/kkvk7Xh1b732NXkZ5vIeWZJVoP5jsQeWIgGaE4fqn+pq+qACCjL4SPvjUFiQefDrSJcnW6XXKdDpC95eLnfETRI7ifBmt0LKM0V9iu9T2ECNMmzm/j9Q0+BPUBNWBUecX8VnpsTpc2QyOqmU0w3JtvM4uWYkWIppfLvIDgyrbmKVu186/rUGpWLD7JaEd70hgbWLu9CWT0HwisNJpQa/3wym4HWx0lAgMBAAECggEAYFu6y8dMq8cuyHZcRutrjnt7I02O3Oe0bTzPsNZ+3jnVe07JrolPTxjbbmd1kpLJweHPTb9fN7DPA3PqR4BpGjVIEVZ7Bj2hi/ljedxS4n4JgeEI9K2S2jLCdHv/G6rw5tvKjaOBS8TaHqOTSpQ1sdWsztGNxA63I8HIwo+A7pRgfMRUUJlTrYjPwGgblraKFsOe3bF0ZXNUNRUR71fh/X2BUZ6AJyRVPsktD0z9Ikyt6RJRNJv21QRYp+FOgjZW0dflLPBaEt7M01HaQHEX8pMIYUokNjlJqOLOFBxWbe0I33mkmDo6QdmuMZrk/O3ULDbutP0o74w/HrGTdtXDHQKBgQDyo3RWUjnEx3Of7Hni/aCFoS03Nuf2xtK80ZipsjHWvL6BuqD2g+8/SnD2eB0K4VGWNkyGurrAgvSrXUkV+jlPy36oGGyfQugLV+9denFl0JF9Eg6R2D31ZEM8b+9v1epWTDkwYAca4tld3ibp48uDDqYJ1t6Sznvxl0zwhK5kkwKBgQC9sBxaqroGVgvSCme59sYARDQpXT4O8bwy7xlPc8uv03yDCtx/9EGDcFjIhuJW3nYDjK+LWyH3e1IHwBca0rvaEez9ndbUuSj9T9NW05Shgkm3+XDJ9JOMpPlR1wzEMEggAKGcCbj3CvmWUgf1fU087wT9JJ5hYZVzShIJ0iqCZwKBgFxlGdv1G8JvIPx5FED3y7SXF5y678HtHDqCpduY25ml7fWAl+LHgsdbFYEFZCnMe0D0FFgJqyu7sme+8iHIUyKrnuNryZEr7SjEp4W1JpFaxswVoC6xZYaYU3IkPc0cbEvIYs6lAo+eap9wBOlzsP+LCHcet0q4DkKFFutP2wi5AoGASl7lDwtG+jr8UXKw7nF5ehtDlEAxl6xhjFrAQq1029AATmSQxT4f/Yer15tC3KpF/OhI30twytY3+D/xDxw2eK50i4857pdWIdMNWkqESLqLaq1K8nOI8iiwc8zr/XOso5d7xXDuazWLW8t3wWFKSiyweQvFaQrYjKYq4lzbO9sCgYBRzkA6jBVarAhXPBhyC3jqgNJw7SLKpWOZPV4ceHcMmCcppJYGiwXwCy23FiL4I2WyaOwhJW49fFuRdmGN2rwmRJAxR9NjY4W/rWvHDv+XzUl1jeJTpGrgtB7hmetTdGd9wCcln8mu5xzvi2zKzyjSqRwUTtZpy6hXGEIqp5OO+g==
+    notify-url:  http://localhost:521/pay/notify
+    return-url:  http://localhost:521/pay/return
+    sign-type: RSA2
+ribbon:
+  ReadTimeout: 60000
+  ConnectTimeout: 60000
