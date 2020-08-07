@@ -6,7 +6,9 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b70161e-b7cf-43d8-997d-4d742d89043a" name="Default Changelist" comment="" />
+    <list default="true" id="0b70161e-b7cf-43d8-997d-4d742d89043a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +70,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
     <option name="FILTER_WARNINGS" value="false" />
@@ -84,6 +89,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1eDlo56ipb4gi2C3KwV2nYVBhMV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
@@ -95,14 +101,14 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../alipay.trade.page.pay-JAVA-UTF-8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.09871668" />
     <property name="project.structure.side.proportion" value="0.39101863" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
@@ -400,8 +406,8 @@
       <item itemvalue="Spring Boot.MemberAuthenticationConsumerApplication" />
       <item itemvalue="Spring Boot.MemberZuulApplication" />
       <item itemvalue="Spring Boot.MemberProjectConsumerApplication" />
-      <item itemvalue="Tomcat Server.tomcat-8.5.47" />
       <item itemvalue="Spring Boot.MemberPayConsumerApplication" />
+      <item itemvalue="Tomcat Server.tomcat-8.5.47" />
     </list>
     <recent_temporary>
       <list>
@@ -475,11 +481,28 @@
       <workItem from="1595424854878" duration="8967000" />
       <workItem from="1595462336634" duration="4717000" />
       <workItem from="1595477525462" duration="38826000" />
+      <workItem from="1596545860255" duration="92000" />
+      <workItem from="1596682365645" duration="340000" />
+      <workItem from="1596685277988" duration="2600000" />
+      <workItem from="1596717022579" duration="117000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/funding$MemberEurekaApplication.ic" NAME="MemberEurekaApplication Coverage Results" MODIFIED="1595432634646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
